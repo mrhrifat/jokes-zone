@@ -1,0 +1,27 @@
+body {
+  width: 350px;
+  max-width: 350px;
+  height: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #16a085;
+}
+
+body p {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 20px 10px;
+  font-size: 18px;
+  color: #fff;
+  font-family: 'Andada Pro', serif;
+  border: 1px solid lightblue;
+  border-radius: 6px;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+/*# sourceMappingURL=style.css.map */

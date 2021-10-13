@@ -1,0 +1,24 @@
+$bg-color: #16a085;
+$text-color:#fff;
+body{
+    width: 350px;
+    max-width: 350px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    background-color:$bg-color;
+
+    
+
+    p{
+        display: inline-flex;
+        padding: 20px 10px;
+        font-size: 18px;
+        color:$text-color;
+        font-family: 'Andada Pro', serif;
+        border: 1px solid lightblue;
+        border-radius: 6px;
+        text-align: center;
+        font-family: 'PT Sans', sans-serif;
+    }
+}
