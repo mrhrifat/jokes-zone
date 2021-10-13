@@ -8,6 +8,11 @@ Jokes Zone is a Chrome Extension. Which provide a new jokes after every tap on e
 <img src=./images/extension.png/>
 </p>
 
+### Looks on Browser
+<p align=left>
+<img src=./images/browser.png/>
+</p>
+
 ### Versions
 
 Current Version
