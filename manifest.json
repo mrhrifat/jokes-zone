@@ -1,0 +1,15 @@
+{
+    "name": "Jokes Zone",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "index.html",
+        "default-icon": "./images/joker.png"
+    },
+    "icons": {
+        "128": "./images/joker.png"
+    }
+}
