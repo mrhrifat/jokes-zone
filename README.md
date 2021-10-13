@@ -31,10 +31,8 @@ Current Version
 9. Click on Icon and get Jokes to Laugh
 
 ### FAQ
-<p align="justify">
-- ***Is it available on Chrome Web Store*** <br>
+- ***Is it available on Chrome Web Store***
 Actually not, because of this is so simple and have to paid for publish on web store, It's not available on there.
-</p>
 
 
 ### Contribution 
