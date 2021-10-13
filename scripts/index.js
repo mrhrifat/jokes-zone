@@ -15,3 +15,7 @@ fetch(url)
         // Show Jokes
         output.innerText = getJoke
     })
+    .catch(e => {
+        console.log(e)
+        // alert(e)
+    })
