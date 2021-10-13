@@ -32,7 +32,7 @@ Current Version
 
 ### FAQ
 - **Is it available on Chrome Web Store**
-Actually not, because of this is so simple and have to paid for publish on web store, It's not available on there.
+> Actually not, because of this is so simple and have to paid for publish on web store, It's not available on there.
 
 
 ### Contribution 
