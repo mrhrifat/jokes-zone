@@ -1,15 +1,15 @@
 ### Jokes Zone
-<p align=justify>
+<p align="justify">
 Jokes Zone is a Chrome Extension. Which provide a new jokes after every tap on extension icon. This is a simple extension now, but InshaAllah I will update always to make it better than earlier version.
 </p>
 
 ### How it Looks
-<p align=left>
+<p align="left">
 <img src=./images/extension.png/>
 </p>
 
 ### Looks on Browser
-<p align=left>
+<p align="left">
 <img src=./images/browser.png/>
 </p>
 
