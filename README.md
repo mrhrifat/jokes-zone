@@ -3,8 +3,8 @@ Jokes Zone is a Browser Extension. Which provide a new Jokes after every tap on 
 
 ## How it Looks
 <p align="center">
-  <img height='200px' src=./images/extension.png/>
-  <img height='200px' src=./images/browser.png/>
+  <img height='150px' src=./images/extension.png/>
+  <img height='150px' src=./images/browser.png/>
 </p>
 
 
