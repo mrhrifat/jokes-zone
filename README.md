@@ -44,4 +44,4 @@ I will be open to any contribution. If you have any idea, please let me know. I 
  
 
 ## License
-This project is licensed under [GPL-3.0](https://github.com/mrhrifat/jokes-zone/master/LICENSE.md).
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/jokes-zone/blob/master/LICENSE.md).
